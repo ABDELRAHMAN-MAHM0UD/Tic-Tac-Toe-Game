@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.xboard.tic_tac_toe"
+    namespace = "com.tic_tac_toe"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
